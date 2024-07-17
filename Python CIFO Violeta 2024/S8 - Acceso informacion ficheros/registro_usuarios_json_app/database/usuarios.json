@@ -1,0 +1,14 @@
+[
+    {
+        "dni": "a",
+        "nombre": "a",
+        "email": "a",
+        "password": "a"
+    },
+    {
+        "dni": "b",
+        "nombre": "b",
+        "email": "b",
+        "password": "b"
+    }
+]
